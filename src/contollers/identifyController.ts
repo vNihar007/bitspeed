@@ -18,7 +18,7 @@ export const identify = async (req: Request, res: Response) => {
       ]
     });
 
-    // ✅ Step 2: If no match found, create new primary contact
+    // Step 2: If no match found, create new primary contact
     if (matchedContacts.length === 0) {
       const newPrimary = await Contact.create({
         email,
