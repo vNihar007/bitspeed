@@ -1,4 +1,4 @@
-# 🚀 Bitespeed Identity Reconciliation Service
+# 🚀 Bitspeed Identity Reconciliation Service
 
 Unify your customer profiles with the **Bitespeed Identity Reconciliation Service**\! This high-performance backend service intelligently links user contacts from various sources using their email addresses and phone numbers. Say goodbye to duplicate contacts and hello to a single, unified view of your customers.
 
